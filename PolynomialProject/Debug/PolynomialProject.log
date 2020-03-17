@@ -1,0 +1,15 @@
+﻿  main.cpp
+  Polynomial.cpp
+C:\Users\jyest\Desktop\PolynomialProject\PolynomialProject\Polynomial.cpp(6,1): error C2511: 'Polynomial::Polynomial(int,int [])': overloaded member function not found in 'Polynomial'
+C:\Users\jyest\Desktop\PolynomialProject\PolynomialProject\Polynomial.h(5): message : see declaration of 'Polynomial'
+C:\Users\jyest\Desktop\PolynomialProject\PolynomialProject\Polynomial.cpp(7,2): error C2597: illegal reference to non-static member 'Polynomial::fDegree'
+C:\Users\jyest\Desktop\PolynomialProject\PolynomialProject\Polynomial.cpp(9,29): error C2597: illegal reference to non-static member 'Polynomial::fDegree'
+C:\Users\jyest\Desktop\PolynomialProject\PolynomialProject\Polynomial.cpp(9,29): error C3867: 'Polynomial::fDegree': non-standard syntax; use '&' to create a pointer to member
+C:\Users\jyest\Desktop\PolynomialProject\PolynomialProject\Polynomial.cpp(9,29): error C2568: '<': unable to resolve function overload
+C:\Users\jyest\Desktop\PolynomialProject\PolynomialProject\Polynomial.cpp(11,12): error C2597: illegal reference to non-static member 'Polynomial::fDegree'
+C:\Users\jyest\Desktop\PolynomialProject\PolynomialProject\Polynomial.cpp(11,12): error C3867: 'Polynomial::fDegree': non-standard syntax; use '&' to create a pointer to member
+C:\Users\jyest\Desktop\PolynomialProject\PolynomialProject\Polynomial.cpp(11,12): error C2109: subscript requires array or pointer type
+C:\Users\jyest\Desktop\PolynomialProject\PolynomialProject\Polynomial.cpp(16,1): error C2270: '*': modifiers not allowed on nonmember functions
+C:\Users\jyest\Desktop\PolynomialProject\PolynomialProject\Polynomial.cpp(21,1): error C2270: '==': modifiers not allowed on nonmember functions
+C:\Users\jyest\Desktop\PolynomialProject\PolynomialProject\Polynomial.cpp(21,1): error C2805: binary 'operator ==' has too few parameters
+  Generating Code...
