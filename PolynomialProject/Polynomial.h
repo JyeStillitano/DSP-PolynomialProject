@@ -11,7 +11,7 @@ class Polynomial
 	public:
 		// the default constructor (initializes all member variables)
 		Polynomial();
-		
+
 		// binary operator* to multiply two polynomials
 		// arguments are read-only, signified by const
 		// the operator* returns a fresh polynomial with degree i+j
